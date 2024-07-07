@@ -54,20 +54,20 @@ The survey gathered responses from 630 data professionals, spanning various jobs
      
 10. **Average Salary by Gender**
     
-   - Female: Slightly lower average salary compared to males
-   - Male: Higher average salary
-   - 
+      - Female: Slightly lower average salary compared to males
+      - Male: Higher average salary
+     
 **Conclusion and Recommendations**
     
 The survey provides valuable insights into the data profession, highlighting key trends in demographics, job roles, programming   preferences, and satisfaction levels. These findings can help organizations and professionals in the data field make informed       decisions and strategize effectively.
 
    1. **For Employers:**
    
-   - Consider salary adjustments to address gender pay disparities.
-   - Promote work-life balance initiatives to improve job satisfaction.
+      - Consider salary adjustments to address gender pay disparities.
+      - Promote work-life balance initiatives to improve job satisfaction.
 
    2. **For Data Professionals:**
    
-   - Focus on acquiring skills in popular programming languages like Python.
-   - Leverage insights from salary data to negotiate better compensation.
+      - Focus on acquiring skills in popular programming languages like Python.
+      - Leverage insights from salary data to negotiate better compensation.
 
